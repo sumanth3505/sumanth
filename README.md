@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Shiyam P 🚀</h1>
+<h1 align="center">Hey there 👋, I'm Sumanth S🚀</h1>
 <p align="center">
-  <b>App Developer • K! Hacks 2025 Winner 🏆 • </b>  
+  <b>Java Web Developer</b>  
   <br />
 </p>
 
@@ -11,8 +11,8 @@
 I'm a builder-first developer passionate about creating scalable systems with purpose.  
 From deploying an AI career toolkit used by 1000+ job seekers to architecting microservices for logistics and IoT-powered decentralized voting systems — I solve real-world problems using software, hardware, and creativity😉.
 
--  **K! Hacks 2025 Grand Winner**
--  **Smart India Hackathon 2024 Finalist**
+-  **Solved More than 150 problems in Leetcode**
+-  **SMART Attendance project using Java SpringBoot**
 -  **Former SWE Intern @ Approtors – AI Startup**
 
 ---
@@ -20,7 +20,7 @@ From deploying an AI career toolkit used by 1000+ job seekers to architecting mi
 ## 💻 Tech & 🛠️ Tools
 
 ```ts
-Languages       → JavaScript · C · Python · PHP · SQL
-Frontend        → React.js · Flutter 
-Backend         → Node.js · Express.js · Fastify · FastAPI
-Databases       → PostgreSQL · MySQL · MongoDB 
+Languages       → Java · C · Python · C++ · SQL
+Frontend        → React.js  
+Backend         → SpringBoot · Node.js · Fastify · FastAPI
+Databases       → PostgreSQL · MySQL · MongoDB · FireBase
